@@ -1,5 +1,5 @@
 ### Olá 👋
-Meu nome é Ana Paula e sou estudante do Intituto Federal, no curso de Análise e Desenvolvimento de Sistemas. 
+Meu nome é Ana Paula e sou estudante do Instituto Federal, no curso de Análise e Desenvolvimento de Sistemas. 
 No momento, os projetos do meu perfil são todos de nível acadêmico, com intuito de praticar e aprender programação. Fique à vontade para dar uma olhada neles. 🙂
 
 <!--
