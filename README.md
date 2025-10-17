@@ -1,6 +1,8 @@
 ### Olá 👋
-Meu nome é Ana Paula e sou estudante do Instituto Federal, no curso de Análise e Desenvolvimento de Sistemas. 
-No momento, os projetos do meu perfil são todos de nível acadêmico, com intuito de praticar e aprender programação. Fique à vontade para dar uma olhada neles. 🙂
+Meu nome é Ana Paula e sou desenvolvedora de software full stack. Fique à vontade para dar uma olhada nos meus projetos. 🙂
+
+### Hi 👋
+My name is Ana Paula and I'm a full-stack software developer. Feel free to check out my projects. 🙂
 
 <!--
 **ana788/ana788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
