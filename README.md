@@ -1,7 +1,7 @@
 ### Olá 👋
 Meu nome é Ana Paula e sou desenvolvedora de software full stack. Fique à vontade para dar uma olhada nos meus projetos. 🙂
 
-### Hi 👋
+### Hello 👋
 My name is Ana Paula and I'm a full-stack software developer. Feel free to check out my projects. 🙂
 
 <!--
